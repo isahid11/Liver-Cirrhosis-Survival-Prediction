@@ -1,6 +1,6 @@
 # Liver-Cirrhosis-Survival-Prediction
 
-# 🩺 Liver Cirrhosis Survival Prediction – SIG720 Task 4C
+# 🩺 Liver Cirrhosis Survival Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
