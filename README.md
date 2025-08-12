@@ -87,11 +87,11 @@ These features ranked highly in both Random Forest and Decision Tree analyses, c
 ---
 
 📌 Future Improvements
-Test advanced models (XGBoost, LightGBM)
+* Test advanced models (XGBoost, LightGBM)
 
-Incorporate additional patient data from other studies
+* Incorporate additional patient data from other studies
 
-Deploy as an interactive clinical decision support tool
+* Deploy as an interactive clinical decision support tool
 
 📜 License
 This project is for academic purposes under Deakin University SIG720 coursework.
