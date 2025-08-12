@@ -86,4 +86,12 @@ These features ranked highly in both Random Forest and Decision Tree analyses, c
 
 ---
 
-## 📂 Repository Structure
+📌 Future Improvements
+Test advanced models (XGBoost, LightGBM)
+
+Incorporate additional patient data from other studies
+
+Deploy as an interactive clinical decision support tool
+
+📜 License
+This project is for academic purposes under Deakin University SIG720 coursework.
